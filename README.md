@@ -1,4 +1,2 @@
 # firstTry_demo
-first Git Repo.
-
-keii
+first Git Repo.<br>keii
